@@ -24,6 +24,8 @@ In this tutorial, we will learn how to use Laravel Subquery in real life example
 
 * (Laravel Socialite Twitter Login)[https://codebriefly.com/laravel-socialite-twitter-login-part-1/]<br>
 In this article, we will discuss “Laravel Socialite Twitter Login”. As we already discussed, Laravel is not only PHP framework. It’s like a lifesaver tool for the developer. If you are new in Laravel then you can start with our previous articles.
+* (Build authentication into your Laravel API with JSON Web Tokens (JWT))[https://medium.com/employbl/build-authentication-into-your-laravel-api-with-json-web-tokens-jwt-cd223ace8d1a]<br>
+In this tutorial we’re going to expand the API we built in the previous tutorial to include authentication.
 
 * (Laravel Socialite LinkedIn Login)[https://codebriefly.com/laravel-sociaite-linkedin-login-part-2/]<br>
 In this article, we will discuss “Laravel Socialite LinkedIn Login”. We already discuss the Laravel Socialite in our previous post, where we describe the Twitter login process. So in this post, we will not be discussing the common process.
