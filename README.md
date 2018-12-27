@@ -4,7 +4,10 @@
 
 * [How to add new .env variable, so teammates would notice?](https://laraveldaily.com/how-to-add-new-env-variable-so-teammates-would-notice/)<br>
 A common problem while working in a team is some custom variables needed, when only one person on the team knows that they are needed, and then other people have errors because they don’t have that variable. Like API Tokens for 3rd party apps, default values for some function – basically, anything that should be in .env file. So here’s an instruction for you, how to put new environment variables correctly, without screwing up teammates work.
-
+* [Laravel: View Composer](https://medium.com/@marcel_domke/laravel-view-composer-dba46a17456e)<br>
+One of the exciting features Laravel provides is the view composer. In my opinion a really powerful view extension which allows the developer to pass variables from a global point to the template.
+* [Create web notifications using Laravel and Pusher Channels](https://hackernoon.com/create-web-notifications-using-laravel-and-pusher-channels-a9516427d842)<br>
+When building web applications, it is not uncommon to find some sort of in-app notification system that will notify you instantly when someone carries out an action related to you or your account. On Facebook, you will be notified when someone likes your status, or when someone comments on your profile. We will replicate this feature by creating a web notifications system using Laravel and Pusher.
 
 ## Video
 
