@@ -28,8 +28,10 @@ In this tutorial, we will learn how to use Laravel Subquery in real life example
 * (Laravel Socialite Twitter Login)[https://codebriefly.com/laravel-socialite-twitter-login-part-1/]<br>
 In this article, we will discuss “Laravel Socialite Twitter Login”. As we already discussed, Laravel is not only PHP framework. It’s like a lifesaver tool for the developer. If you are new in Laravel then you can start with our previous articles.
 * (Build authentication into your Laravel API with JSON Web Tokens (JWT))[https://medium.com/employbl/build-authentication-into-your-laravel-api-with-json-web-tokens-jwt-cd223ace8d1a]<br>
+The newly released Laravel version 5.7 adds a new capability to verify user’s emails. If you’ve ever ran php artisan make:auth within a Laravel app you’ll know the feeling of pleasure and excitement when you see all of your register and login pages, complete with password hashing and a users table already built out. This excitement will soon subside after deploying to production only to find that anyone can register with garbage@notrealemail.com or whatever they feel like typing in. This thin session authentication layer doesn’t help much in a live application. The introduction of Laravel 5.7’s MustVerifyEmail interface adds to the authentication scaffold so that in order for users to login they must use a real, valid email address.
+* ()[https://medium.com/employbl/build-laravel-5-7-email-authentication-with-mailgun-and-digital-ocean-15a92c5bdddf]<br>
+Build session authentication with email verification into a default Laravel 5.7 app
 In this tutorial we’re going to expand the API we built in the previous tutorial to include authentication.
-
 * (Laravel Socialite LinkedIn Login)[https://codebriefly.com/laravel-sociaite-linkedin-login-part-2/]<br>
 In this article, we will discuss “Laravel Socialite LinkedIn Login”. We already discuss the Laravel Socialite in our previous post, where we describe the Twitter login process. So in this post, we will not be discussing the common process.
 
