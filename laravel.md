@@ -29,6 +29,8 @@ One free video from my course "Eloquent: Expert Level"
 Typical Eloquent one-to-many relationship is defined with belongsTo() and hasMany() methods in the model. But did you know you can chain more methods to filter specific records for that relationship? Let me show you what I mean.
 * [Deep Diving into Laravel Subquery](http://tisuchi.com/posts/deep-diving-into-laravel-subquery-14)<br>
 In this tutorial, we will learn how to use Laravel Subquery in real life example. Imagine that, you have two tables, users and posts where users table hasMany() relationship with posts table. Now, we would love to show all users paginate by 10 and show their last post time.
+* [Using PHP Traits for Laravel Eloquent Relationships](https://medium.com/@tomgrohl/using-php-traits-for-laravel-eloquent-relationships-7357901a01a4) <small>2018/09/06</small><br>
+I recently began refactoring a bunch of code on a project and found myself putting the same methods on my Eloquent models for a relation to an Account class. FYI I prefer to have getters and setters rather than accessing properties magically.
 
 ## Authorization
 
