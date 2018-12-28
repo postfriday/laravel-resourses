@@ -54,10 +54,14 @@ This is the post you have all been waiting for. I have been working on building 
 * (Complete guide for implementing Laravel telescope with MongoDB)[https://thewebtier.com/php/complete-guide-for-implementing-laravel-telescope-with-mongodb/]<br>
 Laravel Telescope is an exquisite troubleshoot collaborator for the Laravel structure.
 
+
 ## Forms
 
 * [The Standard Approach to Validate Laravel Form Request](http://tisuchi.com/posts/the-standard-approach-to-validate-laravel-form-request-13)<br>
 Laravel is one of the best choices for PHP developer since it gives so much flexibility to the developer. However, the form validation is one of the crucial parts for web-based application and API. Laravel makes Validating the request is so simple.
+* [File upload with Laravel and VueJS](https://blog.usejournal.com/file-upload-with-laravel-and-vuejs-a70ae85e34a1) <small>2018/05/29</small><br>
+At some point in the development of a system, every developer will come across file uploads. Of course, for those with less experience, this can be a bit tricky. And when you want to make the system simpler and more practical for the end user, this task can give you some headaches. This tutorial aims to be an initial step by step to facilitate the development of this process.
+
 
 ## Logging
 
