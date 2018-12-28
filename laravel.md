@@ -46,6 +46,8 @@ In this article, we will discuss “Laravel Socialite LinkedIn Login”. We alre
 
 * [Consume Laravel APIs from VueJS with Passport](https://medium.com/@woganmay/consume-laravel-apis-from-vuejs-with-passport-47c9b512b5d3)<br>
 This was initially written on wogan.blog, but after two rebrands and the whole Gutenberg fiasco the post completely broke, so I’m dusting it off and re-doing it here. Laravel 5.6 suggests a simple structure for creating API-driven applications.
+* [Laravel Passport and Hyn\Tenancy — Part 1](https://medium.com/@sadnub/hyn-tenancy-5-2-and-laravel-passport-a0d11c5a08eb)<br>
+This is the post you have all been waiting for. I have been working on building my SaaS application for three months and most of this time has been spent going into what seems like uncharted territory. There are three main packages I was trying to get working together: Laravel, Tenancy, and Passport. This will work with Laravel 5.7 and Hyn\Multi-tenant 5.3
 
 ## Telescope
 
