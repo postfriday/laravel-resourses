@@ -76,6 +76,8 @@ In laravel 5.7 all logfiles are generated in app/storage/logs. By default log is
 Hello there, today we are going to deploy Laravel web app to Heroku. If you want to get started with Laravel you can find our post about doing so here. What exactly is Heroku? Heroku is a cloud platform as a service(PaaS) supporting several programming languages.
 * [Putting a Laravel app into production](https://medium.com/@tobiashn/putting-a-laravel-app-into-production-d847ac2a04ed)<br>
 When tinkering around with Laravel you usually won’t think about some practical considerations you should watch out for, when developing an application that will go live one day. I recently put a Laravel-written web application into production and I wish there was an article like this one that tells me about things I should do or use to make my life much easier.
+* [How to Deploy Laravel to Digital Ocean — Step by Step](https://medium.com/@kaloraat/how-to-deploy-laravel-to-digital-ocean-step-by-step-6a40b8d9ea6f) <small>2018/11/22</small><br>
+In this tutorial, I will guide you step by step on How to Deploy Laravel to Digital Ocean so that you can push your local laravel project to the cloud. We will be using Digital Ocean as our cloud hosting provider. Digital Ocean is the best choice in my opinion because its cheap, extremly fast, and it lets you have minimum of 10 droplets(server environments). You can configure them to your need such as for PHP, Ruby, Node or Python apps.
 
 ## Testing
 
