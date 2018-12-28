@@ -18,6 +18,13 @@ A small project I've created for my course "Eloquent: Expert Level".
 
 ## Eloquent
 
+### Video
+
+* [Eloquent Query Scopes: Local and Global](https://www.youtube.com/watch?v=F8Q2ZTbT4MA)<br>
+One free video from my course "Eloquent: Expert Level"
+
+### Articles
+
 * [Five Additional Filters in belongsTo() or hasMany()](https://laraveldaily.com/did-you-know-five-additional-filters-in-belongsto-or-hasmany/)<br>
 Typical Eloquent one-to-many relationship is defined with belongsTo() and hasMany() methods in the model. But did you know you can chain more methods to filter specific records for that relationship? Let me show you what I mean.
 * [Deep Diving into Laravel Subquery](http://tisuchi.com/posts/deep-diving-into-laravel-subquery-14)<br>
@@ -59,4 +66,6 @@ In laravel 5.7 all logfiles are generated in app/storage/logs. By default log is
 
 * [Deploy Laravel web app to Heroku through Github](https://ktmbytes.com/deploy-laravel-web-app-to-heroku-through-github/)<br>
 Hello there, today we are going to deploy Laravel web app to Heroku. If you want to get started with Laravel you can find our post about doing so here. What exactly is Heroku? Heroku is a cloud platform as a service(PaaS) supporting several programming languages.
+* [Putting a Laravel app into production](https://medium.com/@tobiashn/putting-a-laravel-app-into-production-d847ac2a04ed)<br>
+When tinkering around with Laravel you usually won’t think about some practical considerations you should watch out for, when developing an application that will go live one day. I recently put a Laravel-written web application into production and I wish there was an article like this one that tells me about things I should do or use to make my life much easier.
 
