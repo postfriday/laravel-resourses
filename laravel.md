@@ -77,3 +77,7 @@ Hello there, today we are going to deploy Laravel web app to Heroku. If you want
 * [Putting a Laravel app into production](https://medium.com/@tobiashn/putting-a-laravel-app-into-production-d847ac2a04ed)<br>
 When tinkering around with Laravel you usually won’t think about some practical considerations you should watch out for, when developing an application that will go live one day. I recently put a Laravel-written web application into production and I wish there was an article like this one that tells me about things I should do or use to make my life much easier.
 
+## Testing
+
+* [Unit testing your API in Laravel](https://medium.com/@mscherrenberg/unit-testing-your-api-in-laravel-5-6-7172bcdc593d) <small>2018/08/05</small><br>
+So let’s say you’ve build an API, but want to take it a step further by testing it. Well, Laravel makes it very easy.
